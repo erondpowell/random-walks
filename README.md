@@ -1,6 +1,6 @@
 # Problem Set 2 - Random Walks with OOP: from MITx 6.00.2x
 
-In this project, we demonstrate random walks by simulating a roomba vacuum cleaner moving across a tile floor.
+In this project uses OOP and random walks to simulate a roomba vacuum cleaning a tile-grid floor.
 
 Uncomment line 285 before running to get a graphical visualization of the robot(s) cleaning the floor.
 
