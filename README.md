@@ -1,4 +1,4 @@
-# Problem Set 2 - Random Walks with OOP: from MITx 6.00.2x
+#  A Problem Set to implement Random Walks from MITx 6.00.2x
 
 In this project uses OOP and random walks to simulate a roomba vacuum cleaning a tile-grid floor.
 
